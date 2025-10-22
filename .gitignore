@@ -1,0 +1,51 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnail cache files
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Node modules and dependencies
+node_modules/
+
+# Python cache
+__pycache__/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Build and distribution
+/dist
+/build
+*.pyc
+
+# Video/Audio exports (Premiere, OBS, etc.)
+*.mp4
+*.mov
+*.avi
+*.wav
+*.aiff
+*.mp3
+
+# Adobe project backups
+*.prproj
+*.aep
+*.bak
+*.tmp
+
+# Misc
+.env
+.idea/
+.vscode/
