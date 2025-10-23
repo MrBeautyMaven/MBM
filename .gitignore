@@ -1,3 +1,89 @@
+# =========================
+# MBM Media Group Git Ignore
+# =========================
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Compiled files
+*.class
+*.pyc
+*.o
+*.so
+*.out
+
+# Office temp files
+~$*
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Video and large media exports
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+*.wmv
+*.m4v
+*.webm
+
+# Raw image & design source files
+*.psd
+*.ai
+*.xcf
+*.indd
+*.svg
+*.eps
+*.tif
+*.tiff
+*.raw
+
+# Audio files
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.aiff
+
+# Archive files
+*.zip
+*.rar
+*.tar
+*.gz
+*.7z
+
+# Cache folders
+.cache/
+node_modules/
+__pycache__/
+build/
+dist/
+tmp/
+temp/
+
+# Local environment & editor folders
+.vscode/
+.idea/
+.env
+
+# =========================
+# END OF FILE
+# =========================
 # macOS system files
 .DS_Store
 .AppleDouble
